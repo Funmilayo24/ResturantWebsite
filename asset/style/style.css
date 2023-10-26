@@ -164,8 +164,8 @@ nav {
 
 .gallery-item {
     display: inline-block;
-    width: 300px; /* Fixed width for each image */
-    height: 200px; /* Fixed height for each image */
+    width: 600px; /* Fixed width for each image */
+    height: 600px; /* Fixed height for each image */
     margin-right: 10px; /* Add some space between items */
 }
 
